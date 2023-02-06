@@ -6,11 +6,10 @@ class Guesser
 	
 	public int guessNumber()
 	{
-		Scanner scan=new Scanner(System.in);
-		
+		Scanner scan1=new Scanner(System.in);
 		
 		System.out.println("Guesser kindly guess the number");
-		guessNum=scan.nextInt();
+		guessNum=scan1.nextInt();
 		return guessNum;	
 		
 	}	
@@ -23,9 +22,9 @@ class Player
 	
 	public int guessNumber()
 	{
-		Scanner scan=new Scanner(System.in);
+		Scanner scan2=new Scanner(System.in);
 		System.out.println("Player kindly guess the number");
-		pguessNum=scan.nextInt();
+		pguessNum=scan2.nextInt();
 		return pguessNum;
 	}
 }
@@ -115,12 +114,10 @@ class Umpire
 
 
 
-public class Launchgame {
+	public class Game {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		
-		
+	
 		Umpire u=new Umpire();
 		u.collectNumFromGuesser();
 		u.collectNumFromPlayer();
