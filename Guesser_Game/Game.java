@@ -1,9 +1,18 @@
 import java.util.Scanner;
+// It is a console based project using OOPs concepts.
+// Identify the objects:-
+// there are 3 objects - guesser, umpire, player(all 3 does the same work)
+// every object has some state and behaviour
 
+// Guesser - it guesses the number and gives to the umpire 
 class Guesser
 {
+	// variables are used to store number here
+	// state is defined by variables and datatypes
+	// behaviour is defined by methods
 	int guessNum;
 	
+	// method here defines the behaviour/task done by the object
 	public int guessNumber()
 	{
 		Scanner scan1=new Scanner(System.in);
@@ -20,7 +29,7 @@ class Player
 {
 	int pguessNum;
 	
-	public int guessNumber()
+	public int guessNumber()   // same method name as above called as method overloading
 	{
 		Scanner scan2=new Scanner(System.in);
 		System.out.println("Player kindly guess the number");
@@ -40,6 +49,7 @@ class Umpire
 	
 	public void collectNumFromGuesser()
 	{
+		// since we want to call the method from guesser class we are creating its object here
 		Guesser g=new Guesser();
 		numFromGuesser=g.guessNumber();
 		
@@ -111,17 +121,16 @@ class Umpire
 }
 
 
-
-
-
 	public class Game {
 
 	public static void main(String[] args) {
 	
 		Umpire u=new Umpire();
+		System.out.println("Game Started");
 		u.collectNumFromGuesser();
 		u.collectNumFromPlayer();
 		u.compare();
+		System.out.println("Game Ended");
 
 	}
 
