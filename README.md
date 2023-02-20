@@ -21,7 +21,7 @@ https://www.appbrewery.co/p/web-development-course-resources
 - Project 6: BMI Calculator - Node.js and Express.js. This project using API methods such as GET and POST to calculate the BMI
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/arsh8254/Dev_Projects/master/Calculator.gif">
+  <img width="460" height="300" src="https://github.com/arsh8254/Dev_Projects/blob/main/Calculator.gif">
 </p>
 
 ---
@@ -29,7 +29,7 @@ https://www.appbrewery.co/p/web-development-course-resources
 - Project 7: Weather App - Node.js and Express.js. This project uses external weather API to make GET call to get the weather data after a POST request is sent.
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/arsh8254/Dev_Projects/master/WeatherApp.gif">
+  <img width="460" height="300" src="https://github.com/arsh8254/Dev_Projects/blob/main/WeatherApp.gif">
 </p>
 
 - Project 8: Newsletter Sign up - Html, CSS, Bootstrap, JS, Nodejs, express,API, NPM, Nodemon, body-parser etc.
