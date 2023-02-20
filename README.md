@@ -1,29 +1,27 @@
 # The complete web development bootcamp
 
-![Alt text](FullStack.jpg?raw=true "certificate")
-
 ## Resources
 
 https://www.appbrewery.co/p/web-development-course-resources
 
 ## Projects
 
-- Project 1 : Using HTML created personal site - https://sdkdeepa.github.io/resume/
+- Project 1 : Using HTML created personal site
 
-- Project 2 : Intro to CSS - https://sdkdeepa.github.io/profile/
+- Project 2 : Intro to CSS
 
-- Project 2 final : HTML, CSS and Bootstrap - https://sdkdeepa.github.io/udemy-bootstrap/
+- Project 2 final : HTML, CSS and Bootstrap
 
-- Project 3 : Dice game - JS and DOM methods - https://sdkdeepa.github.io/dice
+- Project 3 : Dice game - JS and DOM method
 
-- Project 4 : Drum kit - JS Keyboard events - https://sdkdeepa.github.io/drumming/
+- Project 4 : Drum kit - JS Keyboard events
 
-- Project 5 : Simon Game - JS and jQuery - https://sdkdeepa.github.io/Simon-Game-Jquery/
+- Project 5 : Simon Game - JS and jQuery
 
 - Project 6: BMI Calculator - Node.js and Express.js. This project using API methods such as GET and POST to calculate the BMI
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/sdkdeepa/Udemy-web-bootcamp/blob/master/Calculator.gif">
+  <img width="460" height="300" src="https://github.com/arsh8254/Dev_Projects/master/Calculator.gif">
 </p>
 
 ---
@@ -31,19 +29,18 @@ https://www.appbrewery.co/p/web-development-course-resources
 - Project 7: Weather App - Node.js and Express.js. This project uses external weather API to make GET call to get the weather data after a POST request is sent.
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/sdkdeepa/Udemy-web-bootcamp/blob/master/WeatherApp.gif">
+  <img width="460" height="300" src="https://github.com/arsh8254/Dev_Projects/master/WeatherApp.gif">
 </p>
 
-- Project 8: Newsletter Sign up - Html, CSS, Bootstrap, JS, Nodejs, express,API, NPM, Nodemon, body-parser etc - https://shrouded-river-17694.herokuapp.com/
+- Project 8: Newsletter Sign up - Html, CSS, Bootstrap, JS, Nodejs, express,API, NPM, Nodemon, body-parser etc.
 
 - Project 9 and 10: Todo List app - Continuation of Todo list app v2. Added get, post and delete routes. You can now create and delete todo list for today and for custom list. Custom list can be added to the home route (ex: /work). Using MongoDB Altas cloud database the data is collected. Hosted application through Heroku.
-  Check out: https://tranquil-earth-77166.herokuapp.com/
 
-- Project 11: Multipage Personal Blog Website - Created a multi page personal blog application using HTML, CSS, Bootstrap, JS, Node.js, Express.js, body-parser, API, EJS, Heroku, Mongoose, MogoDB Altas cloud cluster. Checkout: https://morning-brook-32061.herokuapp.com/
+- Project 11: Multipage Personal Blog Website - Created a multi page personal blog application using HTML, CSS, Bootstrap, JS, Node.js, Express.js, body-parser, API, EJS, Heroku, Mongoose, MogoDB Altas cloud cluster.
 
 ### Example of wireframing a project
 
-- Project 2. wireframing TinDog.png
+- Project 2. wireframing TinDog
 
 ## Topics covered
 
@@ -65,7 +62,7 @@ mongoose, mongoose-encryption, dotenv, md5, bcrypt, passport, passport-local, pa
 - Coding Exercise 6: Leap Year
 - 138: Adding Elements and Intermediate Array Techniques
 
-### Section 12: Boss Level Challenge 1 - The Dicee Game
+### Section 12: Boss Level Challenge 1 - The Dice Game
 
 - Create an External JS File
 - Add Dice Images
@@ -124,8 +121,6 @@ mongoose, mongoose-encryption, dotenv, md5, bcrypt, passport, passport-local, pa
 - 265: Adding Success and Failure Pages
 - 266: Deploying Your Server with Heroku
 
-Project: https://shrouded-river-17694.herokuapp.com/
-
 ### Section 22: EJS
 
 - 282: Templates? Why Do We Need Templates?
@@ -183,8 +178,7 @@ Project: https://shrouded-river-17694.herokuapp.com/
 - 374: How to Setup MongoDB Atlas
 - 375: Deploying An App with a Database to Heroku
 
-Folder: Project 9 and 10: Todo List
-https://tranquil-earth-77166.herokuapp.com/
+Project 9 and 10: Todo List
 
 ### Section 30 - Boss Level Challenge 4 - Blog Website Upgrade
 
@@ -193,8 +187,7 @@ https://tranquil-earth-77166.herokuapp.com/
 - 383: Redirect to Home Page after save() is completed with no errors
 - 384: Render correct blog post based on post \_id
 
-Folder: Project 11: Blog website completed
-https://morning-brook-32061.herokuapp.com/
+Project 11: Blog website completed
 
 ### Section 31 - Build Your Own RESTful API From Scratch
 
@@ -208,8 +201,6 @@ https://morning-brook-32061.herokuapp.com/
 - 397: PATCH a Specific Article
 - 398: DELETE a Specific Article
 
-Folder: Wiki-API
-
 ## Section 32 - Authentication & Security
 
 - 403: Getting Set Up
@@ -222,8 +213,6 @@ Folder: Wiki-API
 - 413a: Level 6 - OAuth 2.0 & How to Implement Sign In with Google
 - 413b: Level 6 - OAuth 2.0 with Facebook
 - 414: Letting Users Submit Secrets
-
-Folder: Secrets
 
 ### Section 33 - React.js
 
@@ -239,14 +228,14 @@ Folder: Secrets
 - 434: Keeper App Project - Part 1
 - 436: React Props
 - 437: React Props Practice
-- 438: React DevTools - https://990sq.csb.app/
-- 439: Mapping Data to Components - https://0lrqy.csb.app/
-- 440: Mapping Data to Components Practice - https://1kzup.csb.app/
+- 438: React DevTools
+- 439: Mapping Data to Components
+- 440: Mapping Data to Components Practice
 - 441: JavaScript ES6 Map/Filter/Reduce
 - 442: JavaScript ES6 Arrow functions
 - 443: Keeper App Project - Part 2
 - 444: React Conditional Rendering with the Ternary Operator & AND Operator
-- 445: Conditional Rendering Practice - https://pr7ow.csb.app/
+- 445: Conditional Rendering Practice
 - 447: React Hooks - useState
 - 448: useState Hook Practice
 - 449: JavaScript ES6 Object & Array Destructuring
@@ -260,12 +249,12 @@ Folder: Secrets
 - 458: Managing a Component Tree
 - 459: Managing a Component Tree Practice
 - 460: Keeper App Project - Part 3
-- 461: React Dependencies & Styling the Keeper App - https://pbt9b.csb.app/
+- 461: React Dependencies & Styling the Keeper App
 
 ### Tools used
 
 - codepen
-- Atom
+- codeply
 - Postman
 - Hyper terminal
 - Visual Studio Code
