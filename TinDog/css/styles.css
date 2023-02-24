@@ -1,3 +1,5 @@
+/*                   CSS Codes for styling                   */
+
 body {
   font-family: "Montserrat";
   text-align: center;
@@ -16,7 +18,7 @@ a {
   color: black;
 }
 
-/* Heading */
+/*    Heading      */
 .big-heading {
   font-family: "Montserrat";
   font-size: 3rem;
@@ -28,12 +30,12 @@ a {
   line-height: 1.5;
 }
 
-/*Containers*/
+/*    Containers     */
 .container-fluid {
   padding: 7% 15%;
 }
 
-/*Page Section*/
+/*     Page Section       */
 .colored-section {
   background-color: #ff4c68;
   color: #fff;
@@ -43,7 +45,7 @@ a {
   background-color: #fff;
 }
 
-/* Navigation bar */
+/*     Navigation bar     */
 .navbar {
   padding: 0 0 4.5rem;
 }
@@ -63,12 +65,12 @@ a {
   font-family: "Monserrat light";
 }
 
-/* Download buttons */
+/*     Download buttons     */
 .download-button {
   margin: 5% 3% 5% 0;
 }
 
-/*Title section*/
+/*      Title section      */
 #title {
   background-color: #ff4c68;
   color: white;
@@ -79,7 +81,7 @@ a {
   padding: 3% 15% 7%;
 }
 
-/* Title Image */
+/*     Title Image      */
 .rotate-15 {
   width: 50%;
   transform: rotate(15deg);
@@ -87,7 +89,7 @@ a {
   right: 20%;
 }
 
-/* Features section */
+/*      Features section      */
 #features {
   position: relative;
 }
@@ -108,7 +110,7 @@ a {
   color: #ff4c68;
 }
 
-/* Testimonials Section */
+/*      Testimonials Section      */
 #testimonials {
   background-color: #ef8172;
 }
@@ -138,7 +140,7 @@ a {
   margin: 20px 20px 50px;
 }
 
-/* Pricing section */
+/*     Pricing section      */
 #pricing {
   padding: 100px;
 }
@@ -151,10 +153,8 @@ a {
 .pricing-column {
   padding: 3% 2%;
 }
-
-/* CTA section - styled with other css*/
  
-/* Footer Section*/
+/*     Footer Section     */
 .social-icon {
   color: black;
   margin: 20px 10px;
@@ -165,7 +165,7 @@ a {
   color: #8f8f8f;
 }
 
-/* Adding Media Query for responsive site for tablet and mobile view */
+/*     Adding Media Query for responsive site for tablet and mobile view       */
 @media (max-width: 1028px) {
   #title {
     text-align: center;
