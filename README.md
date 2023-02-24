@@ -1,4 +1,4 @@
-# The complete web development bootcamp
+# Complete Web Development Course 
 
 ## Resources
 
