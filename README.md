@@ -229,7 +229,7 @@ mongoose, mongoose-encryption, dotenv, md5, bcrypt, passport, passport-local, pa
 - Level 5 - Using Passport.js to Add Cookies and Sessions
 - Level 6 - OAuth 2.0 & How to Implement Sign In with Google
 - Level 7 - OAuth 2.0 with Facebook
--           Letting Users Submit Secrets
+            Letting Users Submit Secrets
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Section 33 - React.js
