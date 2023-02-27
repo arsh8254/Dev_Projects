@@ -1,8 +1,9 @@
-# Complete Web Development Course 
+# Complete Web Development Course
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Resources
-
 https://www.appbrewery.co/p/web-development-course-resources
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Projects
 
@@ -37,30 +38,34 @@ https://www.appbrewery.co/p/web-development-course-resources
 - Project 9 and 10: Todo List app - Continuation of Todo list app v2. Added get, post and delete routes. You can now create and delete todo list for today and for custom list. Custom list can be added to the home route (ex: /work). Using MongoDB Altas cloud database the data is collected. Hosted application through Heroku.
 
 - Project 11: Multipage Personal Blog Website - Created a multi page personal blog application using HTML, CSS, Bootstrap, JS, Node.js, Express.js, body-parser, API, EJS, Heroku, Mongoose, MogoDB Altas cloud cluster.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Example of wireframing a project
-
-- Project 2. wireframing TinDog
+@ Project 2 uses wireframing concepts in TinDog
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Topics covered
 
 HTML, CSS, JavaScript, Bootstrap 4, DOM & DOM Manipulation, jQuery, Node.js, Express, React EJS, body-parser, nodemon, lodash, MongoDB, MongoDB Atlas,
 mongoose, mongoose-encryption, dotenv, md5, bcrypt, passport, passport-local, passport-local-mongoose, passport-google-path20, mongoose-findorcreate, express-session, API, JSON, Authentication, Mailchimp API, Build REST API from scratch, Heroku.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Section 9: Introduction to JavaScript ES6
 
-- 116-117: Challenge: Changing Casing in Text
-- 118: Basic Arithmetic and Modulo Operator in Javascript
-- 121-122: Functions Part 1: Challenge - The Karel Robot
-- 124: Functions Part 2: Parameters and Arguments
+- Challenge: Changing Casing in Text
+- Basic Arithmetic and Modulo Operator in Javascript
+- Functions Part 1: Challenge - The Karel Robot
+- Functions Part 2: Parameters and Arguments
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### Section 10: Intermediate JavaScript
 
-- 131: Random Number Generation in Javascript: Building a Love Calculator
-- 132: Control Statements: Using If-Else Conditionals & Logic
+- Random Number Generation in Javascript: Building a Love Calculator
+- Control Statements: Using If-Else Conditionals & Logic
 - Coding Exercise 5: BMI Calculator Advanced (IF/ELSE)
 - Coding Exercise 6: Leap Year
-- 138: Adding Elements and Intermediate Array Techniques
+- Adding Elements and Intermediate Array Techniques
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Section 12: Boss Level Challenge 1 - The Dice Game
 
@@ -70,18 +75,21 @@ mongoose, mongoose-encryption, dotenv, md5, bcrypt, passport, passport-local, pa
 - Change both img to a Random Dice
 - Change both img Elements
 - Change the Title to Display a Winner
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Section 13: Advanced JavaScript and DOM Manipulation
 
-- 172: Higher Order Function Challenge
+- Higher Order Function Challenge
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Section 14: Drum Kit
 
-- 171: Adding Event Listners to a Button
-- 174: How to Play Sounds on a Website
-- 176: How to Use Switch Statements in JavaScript
-- 179: Using Keyboard Event Listeners to Check for Key Presses
-- 181: Adding Animation to Websites
+- Adding Event Listners to a Button
+- How to Play Sounds on a Website
+- How to Use Switch Statements in JavaScript
+- Using Keyboard Event Listeners to Check for Key Presses
+- Adding Animation to Websites
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Section 15: Boss Level Challenge 2 - The Simon Game
 
@@ -95,41 +103,46 @@ mongoose, mongoose-encryption, dotenv, md5, bcrypt, passport, passport-local, pa
 - Check the User's Answer Against the Game Sequence
 - Game Over
 - Restart the Game
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Section 19: Express.js with Node.js
 
-- 241: Creating Our First Server with Express
-- 242: Handling Requests and Responses: the GET Request
-- 244: Understanding and Working with Routes
-- 246: Calculator Challenge Setup
-- 248: Responding to Requests with HTML Files
-- 249: Processing Post Requests with Body Parser
-- 250: BMI Routing Challenge
+- Creating Our First Server with Express
+- Handling Requests and Responses: the GET Request
+- Understanding and Working with Routes
+- Calculator Challenge Setup
+- Responding to Requests with HTML Files
+- Processing Post Requests with Body Parser
+- BMI Routing Challenge
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Section 20: APIs - Application Programming Interfaces
 
-- 258: Making GET Requests with the Node HTTPS Module
-- 259: How to Parse JSON
-- 260: Using Express to Render a Website with Live API Data
-- 261: Using Body Parser to Parse POST Requests to the Server
-  Project: Weather Project
+- Making GET Requests with the Node HTTPS Module
+- How to Parse JSON
+- Using Express to Render a Website with Live API Data
+- Using Body Parser to Parse POST Requests to the Server
+- Project: Weather Project
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Section 21: Newsletter Signup
 
-- 263: Setting up the Sign Up Page
-- 264: Posting Data to Mailchimp's Servers via their API
-- 265: Adding Success and Failure Pages
-- 266: Deploying Your Server with Heroku
+- Setting up the Sign Up Page
+- Posting Data to Mailchimp's Servers via their API
+- Adding Success and Failure Pages
+- Deploying Your Server with Heroku
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Section 22: EJS
 
-- 282: Templates? Why Do We Need Templates?
-- 283: Creating Your First EJS Template
-- 284: Running Code Inside the EJS Template
-- 285: Passing Data from Your Webpage to Your Server
-- 287: Adding Pre-Made CSS Stylesheets to Your Website
-- 288: Understanding Templating vs Layouts
-- 289: Understanding Node Module Exports: How to Pass Functions and Data between Files
+- Templates? Why Do We Need Templates?
+- Creating Your First EJS Template
+- Running Code Inside the EJS Template
+- Passing Data from Your Webpage to Your Server
+- Adding Pre-Made CSS Stylesheets to Your Website
+- Understanding Templating vs Layouts
+- Understanding Node Module Exports: How to Pass Functions and Data between Files
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Section 23: Boss Level Challenge 3 - Blog Website
 
@@ -153,103 +166,109 @@ mongoose, mongoose-encryption, dotenv, md5, bcrypt, passport, passport-local, pa
 - Separate page for each blog post
 - Truncate post body on Home page to 100 characters
 - Add Read More to posts
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Section 27: Mongoose
 
-- 357: Introduction to Mongoose
-- 358: Reading from Your Database with Mongoose
-- 359: Data Validation with Mongoose
-- 360: Updating and Deleting Data Using Mongoose
-- 361: Establishing Relationships and Embedding Documents using Mongoose
+- Introduction to Mongoose
+- Reading from Your Database with Mongoose
+- Data Validation with Mongoose
+- Updating and Deleting Data Using Mongoose
+- Establishing Relationships and Embedding Documents using Mongoose
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Section 28: Putting Everything Together
 
-- 364: Take ToDoList Project to the Next Level and Connect it with Mongoose
-- 365: Rendering Database Items into the ToDoList App
-- 366: Adding New Items to our ToDoList Database
-- 367: Deleting Items from our ToDoList Database
-- 368: Creating Custom Lists using Express Route Parameters
-- 369: Adding New Items to the Custom ToDoLists
-- 370: Revisiting Lodash and Deleting Items from Custom ToDo Lists
+- Take ToDoList Project to the Next Level and Connect it with Mongoose
+- Rendering Database Items into the ToDoList App
+- Adding New Items to our ToDoList Database
+- Deleting Items from our ToDoList Database
+- Creating Custom Lists using Express Route Parameters
+- Adding New Items to the Custom ToDoLists
+- Revisiting Lodash and Deleting Items from Custom ToDo Lists
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Section 29 - Deploying Your Web Application
 
-- 374: How to Deploy Web Apps with a Database
-- 374: How to Setup MongoDB Atlas
-- 375: Deploying An App with a Database to Heroku
-
-Project 9 and 10: Todo List
+- How to Deploy Web Apps with a Database
+- How to Setup MongoDB Atlas
+- Deploying An App with a Database to Heroku
+- Project 9 and 10: Todo List
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Section 30 - Boss Level Challenge 4 - Blog Website Upgrade
 
-- 381: Save Composed Posts with MongoDB
-- 382: Get Home Page to Render the Posts
-- 383: Redirect to Home Page after save() is completed with no errors
-- 384: Render correct blog post based on post \_id
-
-Project 11: Blog website completed
+- Save Composed Posts with MongoDB
+- Get Home Page to Render the Posts
+- Redirect to Home Page after save() is completed with no errors
+- Render correct blog post based on post \_id
+- Project 11: Blog website completed
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Section 31 - Build Your Own RESTful API From Scratch
 
-- 389: Set Up Server Challenge
-- 391: GET All Articles
-- 392: POST a New Article
-- 393: Delete All Articles
-- 394: Chained Route Handlers Using Express
-- 395: GET a Specific Article
-- 396: PUT a Specific Article
-- 397: PATCH a Specific Article
-- 398: DELETE a Specific Article
+- Set Up Server Challenge
+- GET All Articles
+- POST a New Article
+- Delete All Articles
+- Chained Route Handlers Using Express
+- GET a Specific Article
+- PUT a Specific Article
+- PATCH a Specific Article
+- DELETE a Specific Article
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Section 32 - Authentication & Security
 
-- 403: Getting Set Up
-- 404: Level 1 - Register Users with Username and Password
-- 406: Level 2 - Database Encryption
-- 407: Using Environment Variables to Keep Secrets Safe
-- 408: Level 3 - Hashing Passwords
-- 410: Level 4 - Salting and Hashing Passwords with bcrypt
-- 412: Level 5 - Using Passport.js to Add Cookies and Sessions
-- 413a: Level 6 - OAuth 2.0 & How to Implement Sign In with Google
-- 413b: Level 6 - OAuth 2.0 with Facebook
-- 414: Letting Users Submit Secrets
+- Getting Set Up
+- Level 1 - Register Users with Username and Password
+- Level 2 - Database Encryption
+            Using Environment Variables to Keep Secrets Safe
+- Level 3 - Hashing Passwords
+- Level 4 - Salting and Hashing Passwords with bcrypt
+- Level 5 - Using Passport.js to Add Cookies and Sessions
+- Level 6 - OAuth 2.0 & How to Implement Sign In with Google
+- Level 7 - OAuth 2.0 with Facebook
+-           Letting Users Submit Secrets
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Section 33 - React.js
 
-- 422: JSX Code Practice
-- 423: JavaScript Expressions in JSX & ES6 Template Literals
-- 424: JavaScript Expressions in JSX Practice
-- 425: Attributes and Styling React Elements
-- 426: Inline Styling for React Elements
-- 427: React Styling Practice
-- 428: React Components
-- 429: React Components Practice
-- 431: JavaScript ES6 Import, Export and Modules Practice
-- 434: Keeper App Project - Part 1
-- 436: React Props
-- 437: React Props Practice
-- 438: React DevTools
-- 439: Mapping Data to Components
-- 440: Mapping Data to Components Practice
-- 441: JavaScript ES6 Map/Filter/Reduce
-- 442: JavaScript ES6 Arrow functions
-- 443: Keeper App Project - Part 2
-- 444: React Conditional Rendering with the Ternary Operator & AND Operator
-- 445: Conditional Rendering Practice
-- 447: React Hooks - useState
-- 448: useState Hook Practice
-- 449: JavaScript ES6 Object & Array Destructuring
-- 450: JavaScript ES6 Destructuring Challenge
-- 451: Event Handling in React
-- 452: React Forms
-- 454: Changing Complex State
-- 455: Changing Complex State Practice
-- 456: JavaScript ES6 Spread Operator
-- 457: JavaScript ES6 Spread Operator Practice
-- 458: Managing a Component Tree
-- 459: Managing a Component Tree Practice
-- 460: Keeper App Project - Part 3
-- 461: React Dependencies & Styling the Keeper App
+- JSX Code Practice
+- JavaScript Expressions in JSX & ES6 Template Literals
+- JavaScript Expressions in JSX Practice
+- Attributes and Styling React Elements
+- Inline Styling for React Elements
+- React Styling Practice
+- React Components
+- React Components Practice
+- JavaScript ES6 Import, Export and Modules Practice
+- Keeper App Project - Part 1
+- React Props
+- React Props Practice
+- React DevTools
+- Mapping Data to Components
+- Mapping Data to Components Practice
+- JavaScript ES6 Map/Filter/Reduce
+- JavaScript ES6 Arrow functions
+- Keeper App Project - Part 2
+- React Conditional Rendering with the Ternary Operator & AND Operator
+- Conditional Rendering Practice
+- React Hooks - useState
+- useState Hook Practice
+- JavaScript ES6 Object & Array Destructuring
+- JavaScript ES6 Destructuring Challenge
+- Event Handling in React
+- React Forms
+- Changing Complex State
+- Changing Complex State Practice
+- JavaScript ES6 Spread Operator
+- JavaScript ES6 Spread Operator Practice
+- Managing a Component Tree
+- Managing a Component Tree Practice
+- Keeper App Project - Part 3
+- React Dependencies & Styling the Keeper App
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Tools used
 
@@ -258,4 +277,5 @@ Project 11: Blog website completed
 - Postman
 - Hyper terminal
 - Visual Studio Code
-- https://codesandbox.io/
+- codesandbox
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
