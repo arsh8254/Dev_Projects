@@ -7,14 +7,12 @@
   text-decoration: none;
 }
 body {
-  
-  
-  background: url("https://cdn.glitch.com/6ae7a7fc-8884-4ea6-827b-8a1edaa47a61%2Fteahub.io-gradient-wallpaper-hd-2761495.png?v=1622863266753") no-repeat center center fixed; 
+  background: url("D:\Dev_Projects\Portfolio\Docs\background.jpg") no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  font0-weight:400;
+  font-weight:400;
   
 }
 html {
@@ -222,7 +220,7 @@ section .title::after {
 }
 
 .about .title::after {
-  content: "who i am";
+  content: "Who I Am";
 }
 .about .about-content .left {
   width: 45%;
@@ -266,7 +264,7 @@ section .title::after {
 
 .education .title::after {
   background: #111;
-  content: "my-education";
+  content: "My Education";
 }
 .education .serv-content .card {
   width: calc(33% - 20px);
@@ -314,19 +312,19 @@ section .title::after {
 
 .experience .title::after {
   background: white;
-  content: "what i have done";
+  content: "What I Have Done";
 }
 .achievements .title::after {
   background: white;
-  content: "acheived so far";
+  content: "Acheived So Far";
 }
 .education .title::after {
   background: white;
-  content: "my education";
+  content: "My Education";
 }
 .education .title::after {
   background: white;
-  content: "my experiences";
+  content: "My Education";
 }
 .experience .serv-content .card {
   width: calc(33% - 20px);
@@ -361,7 +359,7 @@ section .title::after {
 }
 
 .skills .title::after {
-  content: "what i know";
+  content: "What I Know";
 }
 .skills .skills-content .column {
   width: calc(50% - 30px);
@@ -433,46 +431,6 @@ section .title::after {
   width: 70%;
 }
 
-.achievements .title::after {
-  content: "acheived so far";
-}
-.achievements .carousel .card {
-  background: #222;
-  border-radius: 6px;
-  padding: 25px 35px;
-  text-align: center;
-  overflow: hidden;
-  transition: all 0.3s ease;
-}
-.achievements .carousel .card:hover {
-  background: crimson;
-}
-.achievements .carousel .card .box {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  transition: all 0.3s ease;
-}
-.achievements .carousel .card:hover .box {
-  transform: scale(1.05);
-}
-.achievements .carousel .card .text {
-  font-size: 25px;
-  font-weight: 500;
-  margin: 10px 0 7px 0;
-}
-.achievements .carousel .card img {
-  height: 150px;
-  width: 150px;
-  object-fit: cover;
-  border-radius: 50%;
-  border: 5px solid crimson;
-  transition: all 0.3s ease;
-}
-.achievements .carousel .card:hover img {
-  border-color: #fff;
-}
 .owl-dots {
   text-align: center;
   margin-top: 20px;
@@ -499,10 +457,10 @@ section .title::after {
   background-color: #111;
 }
 .contact .title::after {
-  content: "get in touch";
+  content: "Get In Touch";
 }
 .projects .title::after {
-  content: "my projects";
+  content: "Done so far";
 }
 .projects {
   flex-direction: column;

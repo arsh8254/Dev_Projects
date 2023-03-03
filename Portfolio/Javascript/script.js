@@ -30,11 +30,11 @@ $(document).ready(function() {
   
     var typed = new Typed(".typing", {
       strings: [
-        "Student",
-        "Web-Developer",
-        "Technical-content-writer",
-        "UI Designer",
-        "Competitive Programmer"
+        "Student.",
+        "Web Developer.",
+        "Traveller.",
+        "UI Designer.",
+        "Competitive Programmer."
       ],
       typeSpeed: 100,
       backSpeed: 60,
@@ -43,11 +43,11 @@ $(document).ready(function() {
   
     var typed = new Typed(".typing-2", {
       strings: [
-        "Student",
-        "Web-Developer",
-        "Technical-content-writer",
-        "UI Designer",
-        "Competitive Programmer"
+        "Student.",
+        "Web Developer.",
+        "Traveller.",
+        "UI Designer.",
+        "Competitive Programmer."
       ],
       typeSpeed: 100,
       backSpeed: 60,
