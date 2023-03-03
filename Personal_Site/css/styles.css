@@ -1,5 +1,13 @@
+
 body{
   background-color: #e3fdfd;
+}
+
+.img{
+  border-radius: 50%;
+  width: 200px;
+  height: auto;
+  margin: 0rem;
 }
 
 h1{
