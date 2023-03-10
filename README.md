@@ -21,7 +21,6 @@
   <img width="460" height="300" src="https://github.com/arsh8254/Dev_Projects/blob/main/Calculator.gif">
 </p>
 
----
 
 - Project 7: Weather App - Node.js and Express.js. This project uses external weather API to make GET call to get the weather data after a POST request is sent.
 
